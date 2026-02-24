@@ -1,0 +1,22 @@
+.First-Cut{
+  background-color: black;
+ height: 500px;
+ width: 900px;
+ display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.insta-logo{
+  height: 90px;
+  margin-left: 20px;
+  
+
+}
+
+.welcome-text{
+  color: white;
+  text-align: center;
+  font-family: roboto,arial;
+  font-size: 30px;
+}
