@@ -1,0 +1,11 @@
+p{
+  font-family: roboto, arial;
+}
+
+  .parent-container{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  flex-direction: row;
+
+}
