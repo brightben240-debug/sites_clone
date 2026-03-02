@@ -1,0 +1,81 @@
+.side-pane{
+  background-color: rgb(1, 1, 19);
+ width: 500px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.login-text{
+  font-family: roboto, arial;
+  font-size: 15px;
+  color: white;
+}
+
+.log-inpane{
+  height: 30px;
+  margin-bottom: 4px;
+  border-radius: 9px;
+  border-style: solid;
+  color: white;
+  width: 300px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.password-pane{
+  height: 30px;
+  border-radius: 9px;
+  width: 300px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.login-button{
+  height: 30px;
+  background-color: rgb(77, 77, 237);
+  width: 300px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: white;
+  border-style: none;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+
+}
+
+.forgot-password{
+  color: white;
+  font-size: 15px;
+  font: roboto, arial;
+}
+
+.fb-login{
+  color: white;
+  font-size: 12px;
+  border-color: rgb(176, 177, 224);
+  border-style: solid;
+  border-radius: 20px;
+  padding: 15px 90px 15px 90px;
+  border-width: 1px;
+  text-align: center;
+  width: 200px;
+  
+}
+.create-account{
+  color: rgb(9, 111, 236);
+  border-color: blue;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 15px 90px 15px 90px;
+  width: 200px;
+  border-width: 1px;
+  text-align: center;
+  font-size: 15px;
+
+}
+

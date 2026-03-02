@@ -1,0 +1,15 @@
+.footer{
+  display: flex;
+ justify-content: space-between;
+ background-color: rgb(9, 16, 9);
+ color: white;
+ text-align: center;
+ flex-wrap: nowrap;
+ padding-left: 200px;
+ font: roboto,arial;
+ font-size: 15px;
+}
+
+.list-styles{
+margin-right: 2px;
+}
