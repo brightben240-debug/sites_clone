@@ -1,0 +1,25 @@
+.nav-bar{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(59, 54, 71);
+  justify-content: space-between;
+  color: white;
+  height: 90px;
+
+}
+
+.list-style{
+  list-style: none;
+  display: flex;
+  margin-right: 15px;
+  font-size: 10px;
+  padding-top: 8px;
+  padding-right: 5px;
+}
+
+.start{
+  padding-left: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 8px;
+}
